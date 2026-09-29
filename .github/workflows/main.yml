@@ -1,4 +1,5 @@
 name: Deploy Website
+
 on:
   push:
     branches:
